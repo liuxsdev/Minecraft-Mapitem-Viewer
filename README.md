@@ -1,5 +1,9 @@
 # Minecraft Mapitem Viewer
 
+View Minecraft map item (map_x.dat file) in borwser
+
+![](https://cdn.jsdelivr.net/gh/liuxsdev/Minecraft-Mapitem-Viewer@main/src/assets/screenshot.jpg)
+
 ## Project setup
 ```
 yarn install
