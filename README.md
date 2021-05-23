@@ -1,4 +1,4 @@
-# n
+# Minecraft Mapitem Viewer
 
 ## Project setup
 ```
