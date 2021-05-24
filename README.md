@@ -1,6 +1,6 @@
 # Minecraft Mapitem Viewer
 
-View Minecraft map item (map_x.dat file) in borwser
+View Minecraft map item (map_x.dat file) in browser
 
 ![](https://cdn.jsdelivr.net/gh/liuxsdev/Minecraft-Mapitem-Viewer@main/src/assets/screenshot.jpg)
 
